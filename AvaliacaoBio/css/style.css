@@ -17,7 +17,7 @@ a{
 
 /* Cabeçalho */
 .container{
-    background-color: 	#696969;
+    background-color: 	#707070;
     text-align: center;
     text-align: center;
     font-size: 30px;
@@ -32,9 +32,10 @@ a{
 .bio{
     text-align: center;
     color: #FFFFFF;
-    font-size: 40px;
+    font-size: 50px;
     padding: 20px;
-    background-color: #707070;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 .imagem{
     text-align: center;
@@ -58,7 +59,8 @@ a{
     color: #FFFFFF;
     font-size: 40px;
     padding: 10px;
-    background-color: #707070;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 .imagem2{
     text-align: center;
@@ -82,7 +84,8 @@ a{
     color: #FFFFFF;
     font-size: 40px;
     padding: 10px;
-    background-color: #707070;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 .imagem3{
     text-align: center;
@@ -93,6 +96,8 @@ a{
     color: #FFFFFF;
     font-size: 40px;
     padding: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 .ex3{
     text-align: center;
@@ -113,13 +118,3 @@ a{
     padding: 20px;
     background-color: #707070;
 }
-
-
-
-
-
-
-
-
-
-
