@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #494C4E;
+}
+
+/* Ancora */
+a{
+    margin: 10px;
+    padding: 50px;
+    text-decoration: none;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+/* Cabeçalho */
+.container{
+    background-color: 	#696969;
+    text-align: center;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    padding: 20px;
+}
+
+
+/* Primeira parte */
+.bio{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 20px;
+    background-color: #707070;
+}
+.imagem{
+    text-align: center;
+    padding: 20px;
+}
+.ex{
+    text-align: center;
+    color: #FFFFFF;
+}
+.texto{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+}
+
+
+/* Segunda parte */
+.hist{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 10px;
+    background-color: #707070;
+}
+.imagem2{
+    text-align: center;
+    padding: 20px;
+}
+.ex2{
+    text-align: center;
+    color: #FFFFFF;
+}
+.texto2{
+    text-align: center;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+
+/* Terceira parte */
+.carr{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 10px;
+    background-color: #707070;
+}
+.imagem3{
+    text-align: center;
+    padding: 20px;
+}
+.activision{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 20px;
+}
+.ex3{
+    text-align: center;
+    color: #FFFFFF;
+}
+.texto3{
+    text-align: center;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding: 15px;
+}
+
+
+/* Rodapé */
+.rodape{
+    text-align: center;
+    color: #FFFFFF;
+    padding: 20px;
+    background-color: #707070;
+}
+
+
+
+
+
+
+
+
+
+
